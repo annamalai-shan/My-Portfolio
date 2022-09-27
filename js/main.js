@@ -1,4 +1,4 @@
-(function ($) {
+(function ($) {	
 	"use strict";
 	var nav = $('nav');
   var navHeight = nav.outerHeight();
